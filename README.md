@@ -44,7 +44,3 @@ The project successfully implemented both lexicon-based and machine learning-bas
 
 ## License
 This project is open-source and available under the MIT License.
-
----
-
-This README provides a thorough explanation of the project, making it easy for others to understand, replicate, or contribute. You can add any links to your code or additional resources if needed.
